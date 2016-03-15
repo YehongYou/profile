@@ -10,8 +10,8 @@ I like to work as a web developer and i am studying in GA now.
 ![alt text](https://apdt.com/images/dogs/dog-00033.jpg)
 
 #Goals
-- good good study, day day up!
-- find a job and make money!
+  * good good study, day day up!
+  * find a job and make money!
 
 #Dreams
 - to become the best developer
