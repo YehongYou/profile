@@ -11,6 +11,7 @@ I like to work as a web developer and i am studying in GA now.
 
 #Goals
    * good good study, day day up!
+     * good luck~
    * find a job and make money!
 
 #Dreams
