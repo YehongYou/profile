@@ -14,7 +14,7 @@ I like to work as a web developer and i am studying in GA now.
 ··2.find a job and make money!
 
 #Dreams
-⋅⋅* to become the best developer
+..* to become the best developer
 ⋅⋅* to buy a big house
 ⋅⋅* to make much money!!
 
