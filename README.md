@@ -2,8 +2,8 @@
 **Yehong (leo) You**
 
 #About myself
-⋅⋅⋅I come from China. ⋅⋅
-⋅⋅⋅I like to work as a web developer and i am studying in GA now.
+I come from China. ⋅⋅
+I like to work as a web developer and i am studying in GA now.
 
 #a random meme (picture) from the internet
 
